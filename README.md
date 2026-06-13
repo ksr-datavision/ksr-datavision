@@ -1,6 +1,7 @@
 # 🌸 Hey there, I'm K.SreeDivya!
 
-Welcome to my GitHub! I'm an aspiring Data Analyst from Hyderabad 
+Welcome to my little corner of GitHub!
+I'm an aspiring Data Analyst from Hyderabad 
 passionate about turning raw data into meaningful insights.
 
 Here you'll find:
@@ -8,6 +9,7 @@ Here you'll find:
 - 🐍 Python data projects  
 - 📈 Finance + analytics work
 
+Let’s connect, learn, and grow together—one repo at a time.
 ---
 
 ## 🔗 Connect with me
